@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1575797734 source:c:\users\ivaskoyanik\desktop\new folder\lab6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functionSrc.c"
+	<string.h>
+
+1575797733 c:\users\ivaskoyanik\desktop\new folder\lab6.1\functionsrc.h
+	<stdio.h>
+	<stdlib.h>
+
+1575797574 c:\users\ivaskoyanik\desktop\new folder\lab6.1\functionsrc.c
+	"functionSrc.h"
+
+1575959081 source:c:\users\ivaskoyanik\desktop\newfolder\lab6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functionSrc.c"
+	<string.h>
+
+1575987642 c:\users\ivaskoyanik\desktop\newfolder\lab6.1\functionsrc.c
+	"functionSrc.h"
+
+1575989500 c:\users\ivaskoyanik\desktop\newfolder\lab6.1\functionsrc.h
+	<stdio.h>
+	<stdlib.h>
+
